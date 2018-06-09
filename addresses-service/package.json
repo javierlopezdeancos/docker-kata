@@ -1,0 +1,22 @@
+{
+  "name": "addresses-service",
+  "version": "0.1.0-0",
+  "description": "addresse microservice to docker kata in gdg toledo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgtoledo/docker-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdgtoledo/docker-kata/issues"
+  },
+  "homepage": "https://github.com/gdgtoledo/docker-kata#readme",
+  "dependencies": {
+    "cote": "^0.16.2"
+  }
+}
